@@ -13,3 +13,4 @@ git grep "fileName" to see actually where the file was used previously in the vc
 # server-side-rendering
 
 Creating a server side rendering demo for references on how to render pages server side using react , express and testing using jest.
+using Babel to make life easier :D
