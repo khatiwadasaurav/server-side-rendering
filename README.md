@@ -9,3 +9,7 @@ to kill port : sudo lsof -i -P | grep 3000
 kill pid
 
 git grep "fileName" to see actually where the file was used previously in the vcs
+
+# server-side-rendering
+
+Creating a server side rendering demo for references on how to render pages server side using react , express and testing using jest.
